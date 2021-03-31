@@ -1,4 +1,4 @@
-# purple username
+# green username
 username() {
    echo "%{$FG[029]%}%n%{$reset_color%}"
 }
